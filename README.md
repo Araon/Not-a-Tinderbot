@@ -11,7 +11,10 @@ Login to Tinder and give this bot a try and let your destinty and a bit of compu
 
 ### Requirments
 1.Pyautogui
+
 2.Webbrowser(idk if it comes with you Python default)
+
 3.a tinder account
+
 
 ### Good hunter
