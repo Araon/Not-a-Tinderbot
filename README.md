@@ -19,4 +19,4 @@ Login to Tinder and give this bot a try and let your destinty and a bit of compu
 3.a tinder account
 
 
-### Good hunter
+### Good hunting
