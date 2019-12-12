@@ -6,7 +6,7 @@ Are you a creative and effective escapist?
 
 If any of your answers to the above questions are yes
 
-Then this the best script for you \n
+Then this the best script for you /n
 Login to Tinder and give this bot a try and let your destinty and a bit of computer generated randomness find your next side quest
 
 
