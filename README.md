@@ -4,7 +4,7 @@ Do love Adventure?
 Do you trust your luck?
 Are you a creative and effective escapist?
 
-If any of your answers to the above questions are #YES
+If any of your answers to the above questions are YES
 
 Then this the best script for you 
 
