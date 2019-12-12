@@ -8,7 +8,7 @@ If any of your answers to the above questions are YES
 
 Then this the best script for you 
 
-Login to Tinder and give this bot a try and let your destinty and a bit of computer generated randomness find your next side quest
+Login to Tinder and give this bot a try and let your destinty and a bit of computer generated randomness find you your next side quest
 
 
 ### Requirments
